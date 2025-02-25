@@ -1,76 +1,54 @@
-# For-Aibek-agai
-# 👋 Hey there, I'm Bulabai!  
-## 🚀 Aspiring Engineer | Developer | Designer  
+<h1>Hi, I'm Bulabai! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-```yaml
-{
-  "👨‍💻 About Me": {
-    "Name": "Bulabai",
-    "Education": "10th Grade Student 🎓",
-    "Major": "Engineering 🚀",
-    "Interests": ["Mathematics", "Physics", "Programming", "Design"],
-    "Current Goal": "Scoring 7.0+ in IELTS 📝",
-    "Future Plans": "University Admission 🎯"
-  },
-  "💡 Skills": {
-    "Development": ["Thunkable (Game & App Dev)", "Basic Programming"],
-    "Design": ["Figma (UI/UX Design)"],
-    "Animation": ["FlipaClip"],
-    "Languages": {
-      "English": "Preparing for IELTS (Advanced) 📖",
-      "Spanish": "Basic Level 🗣️",
-      "Mathematical Abilities": "Strong Analytical & Logical Thinking 🧠"
-    }
-  },
-  "📌 Projects": [
-    {
-      "Name": "Translate by Bulabai",
-      "Description": "A translation app for English-Spanish words 🌍",
-      "Tech": ["Thunkable"],
-      "Status": "Completed ✅"
-    },
-    {
-      "Name": "Movie Rental Management System",
-      "Description": "A project to manage films, customers, rentals, and returns 🎬",
-      "Tech": ["Database & UI/UX"],
-      "Status": "Completed ✅"
-    },
-    {
-      "Name": "ViralVibes_Lives",
-      "Description": "A TikTok channel curating viral trends 📱",
-      "Followers": "Growing! 🚀",
-      "Content": ["Trending Clips", "Popular Streamers", "Viral Challenges"]
-    },
-    {
-      "Name": "Game in Thunkable",
-      "Description": "A game project using Canvas 🎮",
-      "Status": "In Progress..."
-    }
-  ],
-  "📅 Daily Routine": {
-    "School Ends": "15:05 ⏳",
-    "Bus Time": "15:30 🚌",
-    "Home Arrival": "16:30 🏠",
-    "Picking Up Sister": "17:30 👧",
-    "Back Home": "19:00 ⌛",
-    "Study & Projects": "Evening & Weekends"
-  },
-  "🚧 Challenges": {
-    "IELTS Preparation": "Speaking & Listening at home is tricky due to noise 🎧",
-    "Balancing Studies & Projects": "Finding time for coding & design 🏗️",
-    "Content Creation": "Growing TikTok channel while managing school work 🎥"
-  },
-  "🎯 Goals for 2025": [
-    "Pass IELTS with 7.0+ 📚",
-    "Launch a full-fledged app on Thunkable 🚀",
-    "Improve UI/UX skills in Figma 🎨",
-    "Learn a new programming language (Python or JavaScript) 💻",
-    "Grow my TikTok channel to 10K+ followers 📈"
-  ],
-  "📞 Connect With Me": {
-    "GitHub": "[Your GitHub Link] 🔗",
-    "TikTok": "[Your TikTok Link] 🎥",
-    "Email": "[Your Email] 📧",
-    "Discord": "[Your Discord Username] 🎮"
-  }
-}
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
